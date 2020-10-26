@@ -14,6 +14,7 @@
     }
   ],
   "start_url": "/TV/",
+  "scope": "/TV/",
   "background_color": "#ffffff",
   "Theme_color": "#ffffff",
   "display": "standalone"
